@@ -12,4 +12,5 @@ This work also reflects a personal interest in historical events and how geograp
 
 ![Original Minard Map](https://raw.githubusercontent.com/MoRMatipour/Minard-s-Russian-campaign-interactive-visualization/refs/heads/main/Images/download.jfif)
 
-Minard’s famous map visually represents the size of Napoleon’s army as it advanced toward Moscow and then retreated during the winter of 1812. The width of the band shows the number of soldiers remaining at each stage of the campaign, while additional elements display geographic location and temperature during the retreat. This visualization is widely regarded as one of the most powerful examples of data storytelling in the history of information design.
+Minard’s famous map visually represents the size of Napoleon’s army as it advanced toward Moscow and then retreated during the winter of 1812.
+The width of the band shows the number of soldiers remaining at each stage of the campaign, while additional elements display geographic location and temperature during the retreat. This visualization is widely regarded as one of the most powerful examples of data storytelling in the history of information design.
