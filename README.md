@@ -118,9 +118,9 @@ These metrics highlight the dramatic contrast between the army at the beginning 
 ### Dashboard Media
 
 #### Video Demo
-A video demonstrating the **interactive features** of the Power BI dashboard.
+A GIF demonstrating the **interactive features** of the Power BI dashboard.
 
-[Watch the Power BI Dashboard Demo](https://github.com/MoRMatipour/Minard-s-Russian-campaign-interactive-visualization/blob/main/Videos/Recording%202026-03-15%20014800.gif?raw=true)
+![Power BI Dashboard Demo](https://github.com/MoRMatipour/Minard-s-Russian-campaign-interactive-visualization/blob/main/Videos/Recording%202026-03-15%20014800.gif?raw=true)
 
 #### Screenshots
 
