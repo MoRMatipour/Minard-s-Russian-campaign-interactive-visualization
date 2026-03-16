@@ -170,3 +170,11 @@ A GIF demonstrating the **Flourish interactive visualizations**.
 - **Retreat from Moscow**
 
 ![Retreat Screenshot](https://github.com/MoRMatipour/Minard-s-Russian-campaign-interactive-visualization/blob/main/Images/Screenshot%202026-03-13%20205640.png?raw=true)
+
+## Conclusion
+
+This project reimagines the classic visualization of the French invasion of Russia created by Charles Joseph Minard using modern interactive visualization tools. By reconstructing the original dataset and preserving the historical narrative, the project transforms a static information graphic into an exploratory and interactive analytical experience.
+
+Through the use of interactive maps, animations, and coordinated visualizations in Power BI and Flourish, the project allows users to explore the army’s movement, the dramatic reduction in troop size, and the environmental conditions that influenced the campaign.
+
+Overall, this project demonstrates how historical information graphics can be adapted for modern analytical environments while maintaining their original meaning and authenticity. It highlights the potential of contemporary visualization tools to make complex historical data more accessible, engaging, and insightful.
