@@ -1,0 +1,21 @@
+﻿step,date,city,lat,lon,army_size,temperature_c,direction
+1,Jun 1812,Kowno,54.9,24,422000,,Advance
+2,Jun 1812,Vilna,54.7,25.3,400000,,Advance
+3,Jul 1812,Smorgoni,54.8,26.4,340000,,Advance
+4,Jul 1812,Molodechno,54.3,26.8,320000,,Advance
+5,Aug 1812,Glubokoye,55.1,27.7,300000,,Advance
+6,Aug 1812,Polotsk,55.5,28.8,280000,,Advance
+7,Aug 1812,Witebsk,55.2,30.2,240000,,Advance
+8,Aug 1812,Smolensk,54.8,32,175000,,Advance
+9,Sep 1812,Dorogobuzh,54.9,33.3,145000,,Advance
+10,Sep 1812,Ghatsk,55.2,34.3,127000,,Advance
+11,Sep 1812,Mojaisk,55.5,35.6,110000,,Advance
+12,Sep 1812,Moscow,55.8,37.6,100000,,Advance
+13,Oct 1812,Moscow,55.8,37.6,100000,0,Retreat
+14,Oct 1812,Mojaisk,55.5,35.6,98000,-9,Retreat
+15,Nov 1812,Smolensk,54.8,32,37000,-21,Retreat
+16,Nov 1812,Orsha,54.5,30.4,24000,-11,Retreat
+17,Nov 1812,Borisov,54.2,28.5,20000,-20,Retreat
+18,Nov 1812,Berezina,54.3,28.5,12000,-24,Retreat
+19,Dec 1812,Molodechno,54.3,26.8,10000,-30,Retreat
+20,Dec 1812,Kowno,54.9,24,10000,-25,Retreat
