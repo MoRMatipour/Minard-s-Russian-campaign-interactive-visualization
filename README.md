@@ -70,3 +70,64 @@ Below is a preview of the reconstructed dataset used in this project.
 
 You can access the full dataset here:  
 [View the CSV Dataset](https://github.com/MoRMatipour/Minard-s-Russian-campaign-interactive-visualization/blob/main/Data/french%20marsh%20to%20russia.csv)
+
+## Power BI Interactive Dashboard
+
+This project includes an interactive data storytelling dashboard built in **Microsoft Power BI**, inspired by the famous historical visualization by Charles Joseph Minard. The dashboard allows users to explore the progression and collapse of the French army during the campaign toward Moscow and the subsequent retreat.
+
+### Map Visualization
+
+At the center of the dashboard is a **world map visualization** displaying the geographical path of the French army during the campaign.  
+
+- Each location of the army is represented as a **bubble on the map**, with the size of the bubble reflecting the number of soldiers remaining at that point.  
+- This spatial representation connects geography with military outcomes, showing how the army advanced deep into Russia and then rapidly declined during the retreat.
+
+### Army Size Trend Analysis
+
+Below the map, a **line chart tracks the army size over time**, showing:
+
+- Decline of the army by date  
+- Labels directly on the line displaying the number of soldiers at each stage  
+- Additional contextual information along the X-axis:
+  1. Temperature values recorded during the retreat  
+  2. City locations the army passed  
+
+This visualization clearly demonstrates the relationship between extreme temperatures and the dramatic reduction in army size.
+
+### Interactive Campaign Filter
+
+The dashboard includes a **slicer** to filter by campaign stage:
+
+- Advance toward Moscow  
+- Retreat from Moscow  
+- Both stages combined  
+
+This allows users to focus on specific phases of the campaign or analyze the entire timeline together.
+
+### Key Metrics
+
+Two cards summarize the scale of the campaign:
+
+- **Maximum army size**  
+- **Minimum army size**  
+
+These metrics highlight the dramatic contrast between the army at the beginning and the end of the campaign.
+
+---
+
+### Dashboard Media
+
+#### Video Demo
+A video demonstrating the **interactive features** of the Power BI dashboard.
+
+[Watch the Power BI Dashboard Demo](https://github.com/MoRMatipour/Minard-s-Russian-campaign-interactive-visualization/blob/main/Videos/Recording%202026-03-15%20014800.gif?raw=true)
+
+#### Screenshots
+
+- **Advance toward Moscow**
+
+![Advance Screenshot](https://github.com/MoRMatipour/Minard-s-Russian-campaign-interactive-visualization/blob/main/Images/Screenshot%202026-03-13%20205052.png?raw=true)
+
+- **Retreat from Moscow**
+
+![Retreat Screenshot](https://github.com/MoRMatipour/Minard-s-Russian-campaign-interactive-visualization/blob/main/Images/Screenshot%202026-03-13%20205133.png?raw=true)
