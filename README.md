@@ -39,3 +39,34 @@ The main objectives of the redesign were:
 ### Project Purpose
 
 Overall, the project aims to bridge historical information design with modern data visualization practices. By transforming Minard’s classic map into an interactive format, the project demonstrates how historical visualizations can be adapted for contemporary audiences while maintaining their original meaning and data structure.
+
+## Data Reconstruction
+
+To begin the redesign process, the original visualization created by Charles Joseph Minard was carefully studied to extract the data embedded within the map. Since the original visualization is a static graphic, the underlying dataset is not directly available in a structured format.
+
+To address this, the data was **manually reconstructed** by identifying and recording the key variables represented in the original visualization.
+
+### Extracted Variables
+
+The reconstructed dataset includes the following variables:
+
+- Latitude  
+- Longitude  
+- Date  
+- Temperature  
+- Army size  
+- City locations  
+- Direction of movement (Advance toward Moscow or Retreat)
+
+### Data Preparation
+
+After extracting the information from the original map, the data was organized into a structured **CSV dataset**. This dataset serves as the foundation for building the interactive visualizations developed in this project using Power BI and Flourish.
+
+### Dataset Preview
+
+Below is a preview of the reconstructed dataset used in this project.
+
+![Reconstructed Dataset Preview](https://github.com/MoRMatipour/Minard-s-Russian-campaign-interactive-visualization/blob/main/Images/Screenshot%202026-03-13%20205403.png?raw=true)
+
+You can access the full dataset here:  
+[View the CSV Dataset](https://github.com/MoRMatipour/Minard-s-Russian-campaign-interactive-visualization/blob/main/Data/french%20marsh%20to%20russia.csv)
