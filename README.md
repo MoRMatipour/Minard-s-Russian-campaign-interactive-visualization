@@ -120,7 +120,7 @@ These metrics highlight the dramatic contrast between the army at the beginning 
 #### Video Demo
 A GIF demonstrating the **interactive features** of the Power BI dashboard.
 
-<img src="https://github.com/MoRMatipour/Minard-s-Russian-campaign-interactive-visualization/blob/main/Videos/Recording%202026-03-15%20014800.gif?raw=true" alt="Power BI Dashboard Demo" width="600"/>
+<img src="https://github.com/MoRMatipour/Minard-s-Russian-campaign-interactive-visualization/blob/main/Videos/Adobe%20Express%20-%20Recording%202026-03-15%20014800.gif?raw=true" alt="Power BI Dashboard Demo" width="600"/>
 
 #### Screenshots
 
