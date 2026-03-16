@@ -122,7 +122,7 @@ A GIF demonstrating the **interactive features** of the Power BI dashboard.
 
 <img src="https://github.com/MoRMatipour/Minard-s-Russian-campaign-interactive-visualization/blob/main/Videos/Adobe%20Express%20-%20Recording%202026-03-15%20014800.gif?raw=true" alt="Power BI Dashboard Demo" width="600"/>
 
-#### Screenshots
+#### Figures
 
 - **Advance toward Moscow**
 
@@ -161,7 +161,7 @@ A GIF demonstrating the **Flourish interactive visualizations**.
 
 <img src="https://github.com/MoRMatipour/Minard-s-Russian-campaign-interactive-visualization/blob/main/Videos/Recording%202026-03-14%20230822.gif?raw=true" alt="Flourish Visualization Demo" width="600"/>
 
-#### Screenshots
+#### Figures
 
 - **Advance toward Moscow**
 
