@@ -131,3 +131,42 @@ A GIF demonstrating the **interactive features** of the Power BI dashboard.
 - **Retreat from Moscow**
 
 ![Retreat Screenshot](https://github.com/MoRMatipour/Minard-s-Russian-campaign-interactive-visualization/blob/main/Images/Screenshot%202026-03-13%20205133.png?raw=true)
+
+## Flourish Visualizations
+
+This project also includes **interactive visualizations created with Flourish**, which allowed me to explore the historical dataset in a modern, interactive format. This was my first experience with Flourish, making it a great opportunity to experiment with a new visualization platform.
+
+### Charts Overview
+
+I created **three different charts** based on the reconstructed dataset:
+
+1. **Advance of the French Army toward Moscow**  
+   - Each step of the army’s movement is represented as a **point on a geographic map**.  
+   - Steps 1–12 show the forward movement, highlighted in **blue**.
+
+2. **Retreat of the French Army from Moscow**  
+   - Steps 13–20 show the retreat, highlighted in **pink**.  
+   - The color differentiation makes it easy to follow the path visually.
+
+3. **Interactive Animation**  
+   - The army is represented as a **moving point** that travels along the campaign path, forward and backward.  
+   - This animation allows viewers to follow the journey **step by step**, making the historical story more engaging and easier to understand.
+
+---
+
+### Flourish Media
+
+#### Video Demo
+A GIF demonstrating the **Flourish interactive visualizations**.
+
+<img src="https://github.com/MoRMatipour/Minard-s-Russian-campaign-interactive-visualization/blob/main/Videos/Recording%202026-03-14%20230822.gif?raw=true" alt="Flourish Visualization Demo" width="600"/>
+
+#### Screenshots
+
+- **Advance toward Moscow**
+
+![Advance Screenshot](https://github.com/MoRMatipour/Minard-s-Russian-campaign-interactive-visualization/blob/main/Images/Screenshot%202026-03-13%20205611.png?raw=true)
+
+- **Retreat from Moscow**
+
+![Retreat Screenshot](https://github.com/MoRMatipour/Minard-s-Russian-campaign-interactive-visualization/blob/main/Images/Screenshot%202026-03-13%20205640.png?raw=true)
