@@ -14,3 +14,28 @@ This work also reflects a personal interest in historical events and how geograp
 
 Minard’s famous map visually represents the size of Napoleon’s army as it advanced toward Moscow and then retreated during the winter of 1812.
 The width of the band shows the number of soldiers remaining at each stage of the campaign, while additional elements display geographic location and temperature during the retreat. This visualization is widely regarded as one of the most powerful examples of data storytelling in the history of information design.
+
+## Project Idea and Goals
+
+This project redesigns the famous historical visualization created by Charles Joseph Minard, which illustrates the dramatic losses of the French army during the French invasion of Russia led by Napoleon Bonaparte. Minard’s original graphic is widely recognized as one of the most influential examples of data storytelling, as it combines multiple variables such as geography, army size, time, and temperature within a single visual narrative.
+
+### Design Philosophy
+
+The goal of this project was not to replace or improve the original visualization, but rather to reinterpret it using modern interactive visualization tools while preserving its historical authenticity. One of the most important design decisions was to keep the original dataset unchanged. No additional data was introduced, and the visualization was reconstructed using only the information present in the original graphic.
+
+This approach ensures that the historical integrity of the data is preserved while allowing the visualization to be explored using contemporary analytical tools.
+
+### Objectives of the Redesign
+
+The redesign focuses on translating a classic static visualization into an interactive analytical experience. While the original graphic presents the entire story within a single static image, modern visualization environments allow users to interact with the data and explore different aspects of the narrative.
+
+The main objectives of the redesign were:
+
+- Transform the original static graphic into an **interactive visualization experience**
+- Preserve the **original dataset and historical narrative**
+- Enable users to **explore relationships between geography, time, and army size**
+- Demonstrate how **modern visualization tools can reveal new perspectives** within historical data
+
+### Project Purpose
+
+Overall, the project aims to bridge historical information design with modern data visualization practices. By transforming Minard’s classic map into an interactive format, the project demonstrates how historical visualizations can be adapted for contemporary audiences while maintaining their original meaning and data structure.
