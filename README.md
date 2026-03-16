@@ -1,5 +1,11 @@
 # Minard Russian Campaign Interactive Visualization
 
+## Overview
+This project is a modern, interactive reimagining of **Charles Minard’s classic 1869 visualization** of Napoleon’s 1812 Russian campaign. The original chart is renowned for combining multiple dimensions of data—army size, geographic movement, direction, and temperature over time—into a single visualization.  
+
+This interactive version allows users to **explore the campaign dynamically**, with tooltips, animations, and visual cues to highlight key events and challenges faced by Napoleon’s army.
+
+
 ## Introduction
 
 This project redesigns a well-known historical information graphic using modern interactive visualization tools. The purpose of the project is not to replace or improve the original visualization, but to explore how contemporary technologies and interaction techniques can reveal new perspectives and make historical data more engaging for modern audiences.
